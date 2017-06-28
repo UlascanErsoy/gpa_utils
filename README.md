@@ -4,5 +4,5 @@
 - [ ] Different Semesters
 
 * Item1
-	*SubItem
+*SubItem
 
